@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2021-05-17 13:23:47
+<?php /* Smarty version Smarty-3.1.19, created on 2021-05-17 17:59:15
          compiled from "/Users/ltexp1998/Desktop/github/pleine_lune/themes/default-bootstrap/product.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:99868596560a26e63d6ee26-53630425%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:164358569960a292d3e9f191-63834007%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '280327a1838a9120a313f53138be9779f920797b' => 
     array (
       0 => '/Users/ltexp1998/Desktop/github/pleine_lune/themes/default-bootstrap/product.tpl',
-      1 => 1556635332,
+      1 => 1621266149,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '99868596560a26e63d6ee26-53630425',
+  'nocache_hash' => '164358569960a292d3e9f191-63834007',
   'function' => 
   array (
   ),
@@ -111,9 +111,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_60a26e64799ca0_85831466',
+  'unifunc' => 'content_60a292d485a839_37074600',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_60a26e64799ca0_85831466')) {function content_60a26e64799ca0_85831466($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/Users/ltexp1998/Desktop/github/pleine_lune/tools/smarty/plugins/modifier.date_format.php';
+<?php if ($_valid && !is_callable('content_60a292d485a839_37074600')) {function content_60a292d485a839_37074600($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_date_format')) include '/Users/ltexp1998/Desktop/github/pleine_lune/tools/smarty/plugins/modifier.date_format.php';
 if (!is_callable('smarty_function_math')) include '/Users/ltexp1998/Desktop/github/pleine_lune/tools/smarty/plugins/function.math.php';
 if (!is_callable('smarty_function_cycle')) include '/Users/ltexp1998/Desktop/github/pleine_lune/tools/smarty/plugins/function.cycle.php';
 if (!is_callable('smarty_function_counter')) include '/Users/ltexp1998/Desktop/github/pleine_lune/tools/smarty/plugins/function.counter.php';
@@ -324,17 +324,24 @@ $_smarty_tpl->tpl_vars['image']->_loop = true;
 				<label><?php echo smartyTranslate(array('s'=>'Condition:'),$_smarty_tpl);?>
  </label>
 				<?php if ($_smarty_tpl->tpl_vars['product']->value->condition=='new') {?>
-					<link itemprop="itemCondition" href="https://schema.org/NewCondition"/>
+					
 					<span class="editable"><?php echo smartyTranslate(array('s'=>'New product'),$_smarty_tpl);?>
 </span>
-				<?php } elseif ($_smarty_tpl->tpl_vars['product']->value->condition=='used') {?>
-					<link itemprop="itemCondition" href="https://schema.org/UsedCondition"/>
-					<span class="editable"><?php echo smartyTranslate(array('s'=>'Used'),$_smarty_tpl);?>
+				<?php } elseif ($_smarty_tpl->tpl_vars['product']->value->condition=='Disponnible toute l\'année') {?>
+					
+					<span class="editable"><?php echo smartyTranslate(array('s'=>'Disponnible toute l\'année'),$_smarty_tpl);?>
 </span>
-				<?php } elseif ($_smarty_tpl->tpl_vars['product']->value->condition=='refurbished') {?>
-					<link itemprop="itemCondition" href="https://schema.org/RefurbishedCondition"/>
-					<span class="editable"><?php echo smartyTranslate(array('s'=>'Refurbished'),$_smarty_tpl);?>
+
+				<?php } elseif ($_smarty_tpl->tpl_vars['product']->value->condition=='Saisonnière') {?>
+					
+					<span class="editable"><?php echo smartyTranslate(array('s'=>'Saisonnière'),$_smarty_tpl);?>
 </span>
+
+				<?php } elseif ($_smarty_tpl->tpl_vars['product']->value->condition=='Ephémère') {?>
+					
+					<span class="editable"><?php echo smartyTranslate(array('s'=>'Ephémère'),$_smarty_tpl);?>
+</span>
+					
 				<?php }?>
 			</p>
 			<?php }?>
@@ -859,7 +866,7 @@ $_smarty_tpl->tpl_vars['accessory']->_loop = true;
 											<?php if (!$_smarty_tpl->tpl_vars['PS_CATALOG_MODE']->value&&($_smarty_tpl->tpl_vars['accessory']->value['allow_oosp']||$_smarty_tpl->tpl_vars['accessory']->value['quantity']>0)&&isset($_smarty_tpl->tpl_vars['add_prod_display']->value)&&$_smarty_tpl->tpl_vars['add_prod_display']->value==1) {?>
 												<div class="no-print">
 													<a class="exclusive button ajax_add_to_cart_button" href="<?php ob_start();?><?php echo intval($_smarty_tpl->tpl_vars['accessory']->value['id_product']);?>
-<?php $_tmp12=ob_get_clean();?><?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getPageLink('cart',true,null,"qty=1&amp;id_product=".$_tmp12."&amp;token=".((string)$_smarty_tpl->tpl_vars['static_token']->value)."&amp;add"), ENT_QUOTES, 'UTF-8', true);?>
+<?php $_tmp7=ob_get_clean();?><?php echo htmlspecialchars($_smarty_tpl->tpl_vars['link']->value->getPageLink('cart',true,null,"qty=1&amp;id_product=".$_tmp7."&amp;token=".((string)$_smarty_tpl->tpl_vars['static_token']->value)."&amp;add"), ENT_QUOTES, 'UTF-8', true);?>
 " data-id-product="<?php echo intval($_smarty_tpl->tpl_vars['accessory']->value['id_product']);?>
 " title="<?php echo smartyTranslate(array('s'=>'Add to cart'),$_smarty_tpl);?>
 ">

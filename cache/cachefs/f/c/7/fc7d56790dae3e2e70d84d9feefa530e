@@ -1,0 +1,26 @@
+a:58:{s:10:"id_product";s:2:"13";s:11:"id_supplier";s:1:"0";s:15:"id_manufacturer";s:1:"0";s:19:"id_category_default";s:2:"13";s:15:"id_shop_default";s:1:"1";s:18:"id_tax_rules_group";s:2:"53";s:7:"on_sale";s:1:"0";s:11:"online_only";s:1:"0";s:5:"ean13";s:0:"";s:3:"upc";s:0:"";s:6:"ecotax";s:8:"0.000000";s:8:"quantity";s:1:"0";s:16:"minimal_quantity";s:1:"1";s:5:"price";s:8:"2.166667";s:15:"wholesale_price";s:8:"0.000000";s:5:"unity";s:1:"1";s:16:"unit_price_ratio";s:8:"0.000000";s:24:"additional_shipping_cost";s:4:"0.00";s:9:"reference";s:15:"Gens de la lune";s:18:"supplier_reference";s:0:"";s:8:"location";s:0:"";s:5:"width";s:8:"0.000000";s:6:"height";s:8:"0.000000";s:5:"depth";s:8:"0.000000";s:6:"weight";s:8:"0.000000";s:12:"out_of_stock";s:1:"2";s:17:"quantity_discount";s:1:"0";s:12:"customizable";s:1:"0";s:16:"uploadable_files";s:1:"0";s:11:"text_fields";s:1:"0";s:6:"active";s:1:"1";s:13:"redirect_type";s:3:"404";s:21:"id_product_redirected";s:1:"0";s:19:"available_for_order";s:1:"1";s:14:"available_date";s:10:"0000-00-00";s:9:"condition";s:12:"Saisonnière";s:10:"show_price";s:1:"1";s:7:"indexed";s:1:"1";s:10:"visibility";s:4:"both";s:13:"cache_is_pack";s:1:"0";s:21:"cache_has_attachments";s:1:"1";s:10:"is_virtual";s:1:"0";s:23:"cache_default_attribute";s:2:"92";s:8:"date_add";s:19:"2021-04-28 11:06:39";s:8:"date_upd";s:19:"2021-05-17 17:57:44";s:25:"advanced_stock_management";s:1:"0";s:15:"pack_stock_type";s:1:"3";s:7:"id_shop";s:1:"1";s:7:"id_lang";s:1:"2";s:11:"description";s:1985:"<h1>Gens de la lune</h1>
+<h2><span>Style : Tropical lager</span></h2>
+<div class="contenu">
+<div class="fichbier">
+<div class="fichbier__2">
+<div class="editor">
+<p><strong>Couleur :</strong> Blonde.<br /><strong>Amertume</strong> : 3 sur 6.</p>
+<p><strong>Alcool</strong> : 4,8% Vol.</p>
+<p><span><strong>Ingrédients</strong> :</span></p>
+<ul><li>Eau de <a href="https://www.siepv.fr/?q=analyses-deau" target="_blank">Chabeuil</a><span>, </span></li>
+</ul><ul><li>Malts : Pale*, Carapils*, Vienne*, Pils*</li>
+</ul><ul><li>Houblons : Mosaïc*, Warrior, Citra*</li>
+</ul><ul><li>Levure.</li>
+</ul><p><em>* Ingrédients issus de l'agriculture biologique.</em></p>
+<p><strong>Conseil </strong><span><strong>de dégustation</strong> </span>: <span>À déguster bien fraîche dans un verre à fond plat. </span><br /><span><strong>Accords</strong> : <a href="http://afternoonteagourmand.blogspot.com/2017/08/taboule-fraicheur-aux-crevettes-et.html" target="_blank">Taboulé fraîcheur aux crevettes et mangue</a><span>, fromages à pâtes pressées cuites : abondance, beaufort,... </span><a href="https://www.encoreungateau.com/fondant-chocolat-lincontournable/" target="_blank">Fondant au chocolat</a><span>,... </span></span></p>
+<p>Bière de fermentation basse à la texture légère, elle laisse pleinement s’exprimer le houblon Mosaic® qui développe des notes de mangue et de fruits exotiques. La <span>Gens de la Lune</span> a été le premier lager produit à la brasserie. Ce type de fermentation lui confère un corps plus léger, plus subtile et plus épurée que la plupart des bières de haute fermentation. </p>
+<p>Cette recette a été pensée et élaborée en collaboration Dorothée de AllegoriA (ex bière culte).</p>
+<h3><em><strong>Disponible toute l'année</strong> en 33cl, 75cl, fûts de 20L et 30L. </em></h3>
+<p><span>Certifiée FR-BIO-15 Agriculture biologique.</span></p>
+<h3>Contient du gluten. </h3>
+</div>
+</div>
+</div>
+</div>";s:17:"description_short";s:209:"<h4><strong><span>Bière de fermentation basse à la texture légère, elle laisse pleinement s’exprimer le houblon Mosaic®</span></strong></h4>
+<h4><strong><span>Tropical lager</span></strong></h4>
+<p></p>";s:12:"link_rewrite";s:15:"gens-de-la-lune";s:16:"meta_description";s:30:"Gens de la lune Tropical Lager";s:13:"meta_keywords";s:0:"";s:10:"meta_title";s:15:"Gens de la lune";s:4:"name";s:43:"Gens de la lune - 4,8% vol - Tropical lager";s:13:"available_now";s:8:"En stock";s:15:"available_later";s:0:"";}

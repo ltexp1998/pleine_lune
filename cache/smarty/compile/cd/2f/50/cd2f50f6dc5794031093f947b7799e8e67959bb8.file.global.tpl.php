@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2021-05-17 13:23:49
+<?php /* Smarty version Smarty-3.1.19, created on 2021-05-17 17:59:16
          compiled from "/Users/ltexp1998/Desktop/github/pleine_lune/themes/default-bootstrap/global.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:47638874560a26e655ca889-61853081%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:65370271660a292d4c22cb9-27797111%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'cd2f50f6dc5794031093f947b7799e8e67959bb8' => 
     array (
       0 => '/Users/ltexp1998/Desktop/github/pleine_lune/themes/default-bootstrap/global.tpl',
-      1 => 1556635332,
+      1 => 1556638932,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '47638874560a26e655ca889-61853081',
+  'nocache_hash' => '65370271660a292d4c22cb9-27797111',
   'function' => 
   array (
   ),
@@ -36,9 +36,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_60a26e6565ece6_98698692',
+  'unifunc' => 'content_60a292d4c8e3b6_24808027',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_60a26e6565ece6_98698692')) {function content_60a26e6565ece6_98698692($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_60a292d4c8e3b6_24808027')) {function content_60a292d4c8e3b6_24808027($_smarty_tpl) {?>
 <?php echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['addJsDef'][0][0]->addJsDef(array('isMobile'=>$_smarty_tpl->tpl_vars['mobile_device']->value),$_smarty_tpl);?>
 <?php echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['addJsDef'][0][0]->addJsDef(array('baseDir'=>$_smarty_tpl->tpl_vars['content_dir']->value),$_smarty_tpl);?>
 <?php echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['addJsDef'][0][0]->addJsDef(array('baseUri'=>$_smarty_tpl->tpl_vars['base_uri']->value),$_smarty_tpl);?>
