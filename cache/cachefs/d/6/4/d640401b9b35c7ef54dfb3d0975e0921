@@ -1,4 +1,4 @@
-a:1:{i:0;a:12:{s:10:"id_product";s:2:"15";s:7:"id_shop";s:1:"1";s:7:"id_lang";s:1:"2";s:11:"description";s:2098:"<h1>Lager des Etoiles</h1>
+a:1:{i:0;a:12:{s:10:"id_product";s:2:"15";s:7:"id_shop";s:1:"1";s:7:"id_lang";s:1:"2";s:11:"description";s:2090:"<h1>Lager des Etoiles</h1>
 <h3>(<span><em>Nouveau visuel, même recette)</em></span></h3>
 <h2><span>Style : India Pale Lager</span></h2>
 <p><strong style="font-size:11px;">Couleur :</strong><span style="font-size:11px;"> Blonde cuivrée</span></p>
@@ -9,19 +9,11 @@ a:1:{i:0;a:12:{s:10:"id_product";s:2:"15";s:7:"id_shop";s:1:"1";s:7:"id_lang";s:
 <div class="editor">
 <p><strong>Alcool</strong> : 6,5% Vol.</p>
 <p><span><strong>Ingrédients</strong> :</span></p>
-<ul>
-<li>Eau de <a href="https://www.siepv.fr/?q=analyses-deau" target="_blank">Chabeuil</a><span>,</span></li>
-</ul>
-<ul>
-<li>Malts : Pale*, Pils*, Vienne*, CaraHell*, CaraPils*,</li>
-</ul>
-<ul>
-<li>Houblons : Simcoe*, Chinook*, Citra*,</li>
-</ul>
-<ul>
-<li>Levure. </li>
-</ul>
-<p><em>* Ingrédients issus de l'agriculture biologique.</em></p>
+<ul><li>Eau de <a href="https://www.siepv.fr/?q=analyses-deau" target="_blank">Chabeuil</a><span>,</span></li>
+</ul><ul><li>Malts : Pale*, Pils*, Vienne*, CaraHell*, CaraPils*,</li>
+</ul><ul><li>Houblons : Simcoe*, Chinook*, Citra*,</li>
+</ul><ul><li>Levure. </li>
+</ul><p><em>* Ingrédients issus de l'agriculture biologique.</em></p>
 <p><strong>Conseil </strong><span><strong>de dégustation</strong> </span>: <span>À déguster bien fraîche dans un verre à fond plat nervuré. </span><br /><span><strong>Accords</strong> : <a href="http://tangerinezest.com/salade-de-tomate-mozzarella-burrata/" target="_blank">Salade de Tomates et Mozzarella burata</a><span>, fromages à pâtes pressées cuites : cheddar, cantal, laguiole,... </span></span></p>
 <p><span>Ce lager des étoiles vous mènera vers la force avec sa dose massive de houblons et de midi-chloriens.. Sa texture est légère et subtile, son amertume équilibrée sur des notes de baies rouges. Second lager de la brasserie, la </span><span>Lager des Etoiles</span><span> est le fruit de notre travail sur les fermentations basses. Il s'agit ici d'une déclinaison d’une recette d’India Pale Ale (IPA), massivement houblonnée mais fermentée avec une souche de levure de lager.</span></p>
 <p>Cette recette a été pensée et élaborée en collaboration Dorothée de AllegoriA (ex bière culte).</p>
