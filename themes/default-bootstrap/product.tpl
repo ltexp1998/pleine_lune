@@ -164,20 +164,13 @@
 			<p id="product_condition">
 				<label>{l s='Condition:'} </label>
 				{if $product->condition == 'new'}
-					
 					<span class="editable">{l s='New product'}</span>
-				{elseif $product->condition == 'Disponnible toute l\'année'}
-					
-					<span class="editable">{l s='Disponnible toute l\'année'}</span>
-
+				{elseif $product->condition == 'Permanente'}
+					<span class="editable">{l s='Permanente'}</span>
 				{elseif $product->condition == 'Saisonnière'}
-					
 					<span class="editable">{l s='Saisonnière'}</span>
-
 				{elseif $product->condition == 'Ephémère'}
-					
 					<span class="editable">{l s='Ephémère'}</span>
-					
 				{/if}
 			</p>
 			{/if}

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2021-05-17 17:59:14
+<?php /* Smarty version Smarty-3.1.19, created on 2021-05-18 09:50:56
          compiled from "/Users/ltexp1998/Desktop/github/pleine_lune/themes/default-bootstrap/modules/mailalerts/views/templates/hook/product.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:45432346260a292d2a668a9-63550816%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:198523261260a371e05e05b6-26432490%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '45432346260a292d2a668a9-63550816',
+  'nocache_hash' => '198523261260a371e05e05b6-26432490',
   'function' => 
   array (
   ),
@@ -23,9 +23,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_60a292d2aa01f1_40381763',
+  'unifunc' => 'content_60a371e061ead7_02089434',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_60a292d2aa01f1_40381763')) {function content_60a292d2aa01f1_40381763($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_60a371e061ead7_02089434')) {function content_60a371e061ead7_02089434($_smarty_tpl) {?>
 <!-- MODULE MailAlerts -->
 	<form>
 		<?php if (isset($_smarty_tpl->tpl_vars['email']->value)&&$_smarty_tpl->tpl_vars['email']->value) {?>

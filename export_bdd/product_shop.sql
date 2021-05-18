@@ -42,7 +42,7 @@ CREATE TABLE `plps_product_shop` (
   `id_product_redirected` int(10) UNSIGNED NOT NULL DEFAULT '0',
   `available_for_order` tinyint(1) NOT NULL DEFAULT '1',
   `available_date` date NOT NULL DEFAULT '0000-00-00',
-  `condition` enum('new','Disponnible toute l''année','Saisonnière','Ephémère') NOT NULL DEFAULT 'new',
+  `condition` enum('new','Permanente','Saisonnière','Ephémère') NOT NULL DEFAULT 'new',
   `show_price` tinyint(1) NOT NULL DEFAULT '1',
   `indexed` tinyint(1) NOT NULL DEFAULT '0',
   `visibility` enum('both','catalog','search','none') NOT NULL DEFAULT 'both',

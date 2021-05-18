@@ -1,0 +1,35 @@
+a:58:{s:10:"id_product";s:2:"16";s:11:"id_supplier";s:1:"0";s:15:"id_manufacturer";s:1:"0";s:19:"id_category_default";s:2:"14";s:15:"id_shop_default";s:1:"1";s:18:"id_tax_rules_group";s:2:"53";s:7:"on_sale";s:1:"0";s:11:"online_only";s:1:"0";s:5:"ean13";s:0:"";s:3:"upc";s:0:"";s:6:"ecotax";s:8:"0.000000";s:8:"quantity";s:1:"0";s:16:"minimal_quantity";s:1:"1";s:5:"price";s:8:"2.083333";s:15:"wholesale_price";s:8:"0.000000";s:5:"unity";s:1:"1";s:16:"unit_price_ratio";s:8:"0.000000";s:24:"additional_shipping_cost";s:4:"0.00";s:9:"reference";s:15:"Lune et l'autre";s:18:"supplier_reference";s:0:"";s:8:"location";s:0:"";s:5:"width";s:8:"0.000000";s:6:"height";s:8:"0.000000";s:5:"depth";s:8:"0.000000";s:6:"weight";s:8:"0.000000";s:12:"out_of_stock";s:1:"2";s:17:"quantity_discount";s:1:"0";s:12:"customizable";s:1:"0";s:16:"uploadable_files";s:1:"0";s:11:"text_fields";s:1:"0";s:6:"active";s:1:"1";s:13:"redirect_type";s:3:"404";s:21:"id_product_redirected";s:1:"0";s:19:"available_for_order";s:1:"1";s:14:"available_date";s:10:"0000-00-00";s:9:"condition";s:3:"new";s:10:"show_price";s:1:"1";s:7:"indexed";s:1:"1";s:10:"visibility";s:4:"both";s:13:"cache_is_pack";s:1:"0";s:21:"cache_has_attachments";s:1:"0";s:10:"is_virtual";s:1:"0";s:23:"cache_default_attribute";s:3:"107";s:8:"date_add";s:19:"2021-04-28 14:31:07";s:8:"date_upd";s:19:"2021-05-10 09:45:00";s:25:"advanced_stock_management";s:1:"0";s:15:"pack_stock_type";s:1:"3";s:7:"id_shop";s:1:"1";s:7:"id_lang";s:1:"2";s:11:"description";s:2210:"<h1>Lune et l'autre</h1>
+<h2><span>Style : Pale Ale américaine</span></h2>
+<div class="contenu">
+<div class="fichbier">
+<div class="fichbier__2">
+<div class="editor">
+<p><strong>Couleur :</strong> Blonde.</p>
+<p><strong>Amertume</strong> : 3 sur 6.</p>
+<p><strong>Alcool</strong> : 5,5% Vol.</p>
+<p><span><strong>Ingrédients</strong> :</span></p>
+<ul>
+<li>Eau de <a href="https://www.siepv.fr/?q=analyses-deau" target="_blank">Chabeuil</a><span>, </span></li>
+</ul>
+<ul>
+<li>Malts : Pale*, Vienne*, Munich*, Pils*, Blé Pils*.</li>
+</ul>
+<ul>
+<li>Houblons : Mistral*, Cascade*, Citra*, El Dorado*.</li>
+</ul>
+<ul>
+<li>Levure. </li>
+</ul>
+<em>* Ingrédients issus de l'agriculture biologique.</em>
+<p><strong>Conseil </strong><span><strong>de dégustation</strong> </span>: <span>À déguster bien fraîche dans un verre tulipe. </span><br /><span><strong>Accords</strong> : <a href="https://www.atelierpoisson.fr/recettes/blanquette-de-mer/" target="_blank">Blanquette de saumon</a><span>, </span><a href="https://www.atelierpoisson.fr/recettes/papillote-de-truite-aux-legumes-printaniers/" target="_blank">Papillote de truite aux légumes printaniers</a><span>, </span><a href="https://www.atelierdeschefs.fr/fr/recette/20556-blanc-de-poulet-grille-sauce-raita-et-brocolis-au-cumin.php" target="_blank">Blanc de poulet grillé, sauce raïta et brocolis au cumin</a><span>, fromages de brebis ou de chèvre frais,...</span></span></p>
+<p>Bière de printemps houblonnée au Citra, son nez est floral et exotique sur des notes de litchi et de mangue. En bouche, elle exprime les fruits exotiques et le pamplemousse. Vous l’aurez compris, cette bière désaltérante et longue en bouche, est à mi-chemin entre une bière de goût et une bière de soif. Un classique de la brasserie devenu incontournable… Une bière de révélation !</p>
+<p>Cette recette a été pensée et élaborée en collaboration avec Estelle Marty, amie de longue date de la brasserie.</p>
+<h3><em><strong>Disponible toute l'année</strong> en 33cl, 75cl, fûts de 20L et 30L. </em></h3>
+<p><span>Certifiée FR-BIO-15 Agriculture biologique.</span></p>
+<h3>Contient du gluten. </h3>
+</div>
+</div>
+</div>
+</div>";s:17:"description_short";s:170:"<h4><span>Bière de printemps houblonnée au Citra, son nez est floral et exotique sur des notes de litchi et de mangue.</span></h4>
+<h4>Pale Ale américaine</h4>
+<p></p>";s:12:"link_rewrite";s:15:"lune-et-l-autre";s:16:"meta_description";s:36:"Lune et l'autre Pale Ale américaine";s:13:"meta_keywords";s:0:"";s:10:"meta_title";s:15:"Lune et l'autre";s:4:"name";s:49:"Lune et l'autre - 5,5% vol - Pale Ale américaine";s:13:"available_now";s:8:"En stock";s:15:"available_later";s:0:"";}
