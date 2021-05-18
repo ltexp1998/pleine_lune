@@ -3,13 +3,14 @@
 ## Création de la boutique directement en ligne puis récupération en local.
 ----
 utilisation du tuto pour la migration en local : [link](https://www.prestashop.com/forums/topic/519979-tutorial-comment-transf%C3%A9rer-mon-site-local-distant-ou-linverse/)
-
-Drop de la BDD dans le dossier export_bdd
+Copie du tuto et drop de la BDD dans le dossier fichiers_perso
 
 ----
 ## Modification des mention "état" dans le BO et le FO
 ----
 utilisation du tuto : [link](https://www.team-ever.com/prestashop-1-6-ajouter-des-etats-de-produits/)
+
+Copie du tuto dans le dossier fichiers_perso
 
 **Avec les modifications suivantes :**
 
@@ -28,5 +29,5 @@ sont à modifier comme indiqué dans le tuto.
 
 Paramètres avancés => performances => icone vider le cache
 
-![Image alt text](export_bdd/Vider_cache.png)
+![Image alt text](fichiers_perso/Vider_cache.png)
 
