@@ -1,0 +1,17 @@
+a:2:{i:0;a:3:{s:7:"id_info";s:1:"1";s:7:"id_shop";s:1:"1";s:4:"text";s:458:"<ul>
+<li><em class="icon-truck" id="icon-truck"></em>
+<div class="type-text">
+<h3>Livraison</h3>
+<p>Nous ne faisons pas d'expédition, les commandes sont à récupérer à la boutique.</p>
+</div>
+</li>
+<li><em class="icon-credit-card" id="icon-credit-card"></em>
+<div class="type-text">
+<h3>Paiement</h3>
+<p>Le paiement en ligne n'est pour le moment pas disponible, vous pouvez régler votre commande à la boutique avant enlèvement.</p>
+</div>
+</li>
+</ul>";}i:1;a:3:{s:7:"id_info";s:1:"2";s:7:"id_shop";s:1:"1";s:4:"text";s:503:"<h3><span style="color:#d0121a;">ATTENTION</span></h3>
+<h2><span style="color:#d0121a;">Ce site n'est pas un site fonctionnel</span></h2>
+<p><span style="color:#000000;">ce site est réalisé et mis en ligne dans le cadre d'un exercice et aucunes commandes réalisées par son intermédiaire ne sera prise en compte.</span></p>
+<p><span style="color:#000000;">Veuillez contacter la brasserie de la pleine lune afin de réaliser une commande ou obtenir des renseignements (contact ci dessous).</span></p>";}}

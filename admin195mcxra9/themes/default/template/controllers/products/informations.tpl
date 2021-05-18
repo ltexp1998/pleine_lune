@@ -316,8 +316,9 @@
 				<div class="col-lg-3">
 					<select name="condition" id="condition">
 						<option value="new" {if $product->condition == 'new'}selected="selected"{/if} >{l s='New'}</option>
-						<option value="used" {if $product->condition == 'used'}selected="selected"{/if} >{l s='Used'}</option>
-						<option value="refurbished" {if $product->condition == 'refurbished'}selected="selected"{/if}>{l s='Refurbished'}</option>
+						<option value="Permanente" {if $product->condition == 'Permanente'}selected="selected"{/if} >{l s='Permanente'}</option>
+						<option value="Saisonnière" {if $product->condition == 'Saisonnière'}selected="selected"{/if}>{l s='Saisonnière'}</option>
+						<option value="Ephémère" {if $product->condition == 'Ephémère'}selected="selected"{/if}>{l s='Ephémère'}</option>
 					</select>
 				</div>
 			</div>

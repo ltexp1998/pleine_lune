@@ -164,14 +164,13 @@
 			<p id="product_condition">
 				<label>{l s='Condition:'} </label>
 				{if $product->condition == 'new'}
-					<link itemprop="itemCondition" href="https://schema.org/NewCondition"/>
 					<span class="editable">{l s='New product'}</span>
-				{elseif $product->condition == 'used'}
-					<link itemprop="itemCondition" href="https://schema.org/UsedCondition"/>
-					<span class="editable">{l s='Used'}</span>
-				{elseif $product->condition == 'refurbished'}
-					<link itemprop="itemCondition" href="https://schema.org/RefurbishedCondition"/>
-					<span class="editable">{l s='Refurbished'}</span>
+				{elseif $product->condition == 'Permanente'}
+					<span class="editable">{l s='Permanente'}</span>
+				{elseif $product->condition == 'Saisonnière'}
+					<span class="editable">{l s='Saisonnière'}</span>
+				{elseif $product->condition == 'Ephémère'}
+					<span class="editable">{l s='Ephémère'}</span>
 				{/if}
 			</p>
 			{/if}

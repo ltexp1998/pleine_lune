@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:22838151760a26ec2483ff1-92517171%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:8976362660a371e08b7883-49516866%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,7 +9,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '22838151760a26ec2483ff1-92517171',
+  'nocache_hash' => '8976362660a371e08b7883-49516866',
   'variables' => 
   array (
     'block' => 0,
@@ -33,51 +33,41 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => true,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_60a26ec2574835_28069660',
+  'unifunc' => 'content_60a371e09c2904_20609535',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_60a26ec2574835_28069660')) {function content_60a26ec2574835_28069660($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_60a371e09c2904_20609535')) {function content_60a371e09c2904_20609535($_smarty_tpl) {?>
 	<!-- Block CMS module footer -->
 	<section class="footer-block col-xs-12 col-sm-2" id="block_various_links_footer">
 		<h4>Informations</h4>
 		<ul class="toggle-footer">
 							<li class="item">
-					<a href="http://localhost:8888/promotions" title="Promotions">
+					<a href="http://localhost:8888/index.php?controller=prices-drop" title="Promotions">
 						Promotions
 					</a>
 				</li>
 									<li class="item">
-				<a href="http://localhost:8888/nouveaux-produits" title="Nouveaux produits">
+				<a href="http://localhost:8888/index.php?controller=new-products" title="Nouveaux produits">
 					Nouveaux produits
 				</a>
 			</li>
 										<li class="item">
-					<a href="http://localhost:8888/meilleures-ventes" title="Meilleures ventes">
+					<a href="http://localhost:8888/index.php?controller=best-sales" title="Meilleures ventes">
 						Meilleures ventes
 					</a>
 				</li>
 										<li class="item">
-					<a href="http://localhost:8888/magasins" title="Nos magasins">
+					<a href="http://localhost:8888/index.php?controller=stores" title="Nos magasins">
 						Nos magasins
 					</a>
 				</li>
 									<li class="item">
-				<a href="http://localhost:8888/nous-contacter" title="Contactez-nous">
+				<a href="http://localhost:8888/index.php?controller=contact" title="Contactez-nous">
 					Contactez-nous
 				</a>
 			</li>
-															<li class="item">
-						<a href="http://localhost:8888/content/3-conditions-utilisation" title="Conditions d&#039;utilisation">
-							Conditions d&#039;utilisation
-						</a>
-					</li>
-																<li class="item">
-						<a href="http://localhost:8888/content/4-a-propos" title="A propos">
-							A propos
-						</a>
-					</li>
-													<li>
-				<a href="http://localhost:8888/plan-site" title="sitemap">
+																										<li>
+				<a href="http://localhost:8888/index.php?controller=sitemap" title="sitemap">
 					sitemap
 				</a>
 			</li>
