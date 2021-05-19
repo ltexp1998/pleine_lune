@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>artfreegdpr</name>
+	<displayName><![CDATA[Free GDPR compliance [RGPD 2016/679] ]]></displayName>
+	<version><![CDATA[1.0.7]]></version>
+	<description><![CDATA[It inserts information in the user profile to request the deletion of the user and the export of personal]]></description>
+	<author><![CDATA[Arte e Informatica]]></author>
+	<tab><![CDATA[billing_invoicing]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

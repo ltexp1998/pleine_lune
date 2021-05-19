@@ -1,0 +1,38 @@
+/**
+*  2009-2018 Arte e Informatica
+*  For support feel free to contact us on our website at http://www.arteinformatica.eu
+*
+*  @author    Arte e Informatica <admin@arteinformatica.eu>
+*  @copyright 2009-2018 Arte e Informatica
+*  @version   1.0.0
+*  @license   One Paid Licence By WebSite Using This Module. No Rent. No Sell. No Share.
+*  
+*/
+.art-access-data {
+    padding: 4px 20px 20px 20px;
+    background: #f6faf1;
+    color: #4d4a4a;
+	border: 1px solid #8BC34A;
+    border-radius: 10px;
+}
+
+.art-access-data h2 {
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.art-erase-data {
+    padding: 4px 20px 20px 20px;
+    background: #fef4e5;
+    color: #4d4a4a;
+	border: 1px solid #FF9800;
+    border-radius: 10px;
+	margin-top: 20px;
+}
+
+.art-erase-data h2 {
+    font-size: 22px;
+    text-transform: uppercase;
+    font-weight: 700;
+}

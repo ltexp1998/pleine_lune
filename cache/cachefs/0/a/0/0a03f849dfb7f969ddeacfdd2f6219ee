@@ -1,0 +1,8 @@
+a:1:{s:256:"IFNULL(
+			(
+				SELECT right_column
+				FROM plps_theme t
+				LEFT JOIN plps_theme_meta tm ON ( t.id_theme = tm.id_theme )
+				LEFT JOIN plps_meta m ON ( m.id_meta = tm.id_meta )
+				WHERE t.id_theme =1
+				AND m.page = "module-cashondelivery-validation" ";s:1:"0";}

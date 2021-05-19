@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:73594981260a371e284e215-67503571%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:46082587260a3c7b6157fe8-76136041%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,7 +9,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '73594981260a371e284e215-67503571',
+  'nocache_hash' => '46082587260a3c7b6157fe8-76136041',
   'variables' => 
   array (
     'is_logged' => 0,
@@ -18,7 +18,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_60a371e2876574_07275456',
+  'unifunc' => 'content_60a3c7b6180f51_18772747',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_60a371e2876574_07275456')) {function content_60a371e2876574_07275456($_smarty_tpl) {?><div id="contact-link" > <a href="http://localhost:8888/index.php?controller=contact" title="Contactez-nous">Contactez-nous</a></div> <span class="shop-phone"> <i class="icon-phone"></i>Appelez-nous au : <strong>+33(0)4 75 85 47 19</strong> </span><?php }} ?>
+<?php if ($_valid && !is_callable('content_60a3c7b6180f51_18772747')) {function content_60a3c7b6180f51_18772747($_smarty_tpl) {?><div id="contact-link" > <a href="http://localhost:8888/index.php?controller=contact" title="Contactez-nous">Contactez-nous</a></div> <span class="shop-phone"> <i class="icon-phone"></i>Appelez-nous au : <strong>+33(0)4 75 85 47 19</strong> </span><?php }} ?>

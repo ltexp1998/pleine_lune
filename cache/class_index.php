@@ -4135,7 +4135,7 @@
   ),
   'Validate' => 
   array (
-    'path' => '',
+    'path' => 'override/classes/Validate.php',
     'type' => 'class',
     'override' => false,
   ),

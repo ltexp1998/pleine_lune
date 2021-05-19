@@ -1,0 +1,38 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_1111f4a09d26e9cff86131f9c9d2cfaf'] = 'Free GDPR compliance [RGPD 2016/679]';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_40f5e4b2f59d94664b4218ad32161cfd'] = 'Inserisce nella pagina gestione utente del cliente le informazioni per richiedere l\'accesso ai dati personali e la reifica e cancellazione degli stessi.';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_c888438d14855d7d96a2724ee9c306bd'] = 'Salvataggio Effettuato';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_b9284bff13acffdd879ef4ac7fca5234'] = 'Salvataggio Fallito';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_f4f70727dc34561dfde1a3c529b6205c'] = 'Configurazione';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_d0fba69228dae65dcca6bdb62f2cbe48'] = 'Attiva il GDPR?';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_83e1bb7df70338f5ee332183b2722671'] = 'Mostra nel profilo cliente le informazioni per richiedere l\'accesso ai dati personali e la reifica e cancellazione degli stessi.';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Abilita';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_b9f5c797ebbf55adccdd8539a65a0241'] = 'Disabilita';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_a9fbdc8dee238cf633549b96d30c780f'] = 'Chiedi il consenso?';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_927e66e6a61801b9697da01a4a246b9d'] = 'Chiedi il consenso alla privacy policy perla registrazione ';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_cd00bd5b0b45194feddbe7d7b53e3a1c'] = 'Disabilità per gli ospiti';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_e8a46892f1a65c8ff111025045443ab6'] = 'Disabilita il consenso per gli ordini senza registrazione';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_9e8e7cf808c3797f9d040a0888f1ab0f'] = 'Attiva in contatti?';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_49d5cbd97b6d74bd41a7678aebea24d2'] = 'Richiedi il consenso nel form contatti';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_bb5e30759047e9b4f904748526dfe6ec'] = 'URL alla pagina contatti';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_2f9afea5fbd2aa5f5bb193d451968c74'] = 'Inserire il link per accedere al modulo contatti del vostro ecommerce o a un modulo dedicato per le richieste di accesso e reifica dei dati personali.';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_7e93aa73e96c1faa44b25f6e35d51963'] = 'Testo Consenso';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_8ba8844c7740a30489048f494e17c2fd'] = 'Testo da visualizzare per il consenso';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_6d5d7d4b74848b7543e67d2aaf1e4164'] = 'Link alla Privacy Policy';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_6925820ea624b7f5414ea54b6cfc0a33'] = 'Label del link';
+$_MODULE['<{artfreegdpr}prestashop>artfreegdpr_c9cc8cce247e49bae79f15173ce97354'] = 'Salva';
+$_MODULE['<{artfreegdpr}prestashop>configure_254f642527b45bc260048e30704edb39'] = 'Configurazione';
+$_MODULE['<{artfreegdpr}prestashop>configure_2c811fd842fd624abda1b1be7f8f13ea'] = 'I nostri moduli per PrestaShop';
+$_MODULE['<{artfreegdpr}prestashop>configure_82917394459fb0539bd1a8733606fc9b'] = 'Sviluppiamo soluzioni per il commercio elettronico e moduli per PrestaShop';
+$_MODULE['<{artfreegdpr}prestashop>gdprdoc_d95cf4ab2cbf1dfb63f066b50558b07d'] = 'Il tuo utente';
+$_MODULE['<{artfreegdpr}prestashop>gdprdoc_fb3c7b3644127dba290fa027624c6176'] = 'Gestione dati personali [RGPD 2016/679] ';
+$_MODULE['<{artfreegdpr}prestashop>gdprdoc_a8308387f3ffc2d045d2b6125e74317d'] = 'Accedi ai tuoi dati personali';
+$_MODULE['<{artfreegdpr}prestashop>gdprdoc_15cc31fab442c81b1de01ca76fecde25'] = 'Hai il diritto di accedere in qualsiasi momento ai dati che hai fornito al nostro sito.  Per ricevere una copia dei tuoi dati personali ';
+$_MODULE['<{artfreegdpr}prestashop>gdprdoc_11bd86f005414aaf62d77f8441720dc6'] = 'contattaci cliccando qui!';
+$_MODULE['<{artfreegdpr}prestashop>gdprdoc_8e10500a8231c96cbb1df01fb77531bc'] = 'Ti risponderemo prima possibile ... ';
+$_MODULE['<{artfreegdpr}prestashop>gdprdoc_91a49c1d45a5d37e85658d01b6f37423'] = 'Richieste di rettifica e cancellazione';
+$_MODULE['<{artfreegdpr}prestashop>gdprdoc_01cb324ae91e9bd16213cc2945334249'] = 'Hai il diritto di modificare tutte le informazioni personali contenute nella pagina “Il mio account”. Per qualsiasi altra domanda riguardo alla rettifica e/o cancellazione dei tuoi dati personali,  ';
+$_MODULE['<{artfreegdpr}prestashop>gdprinfo_a2f5efc3ac632e74bf8560dbab61c494'] = 'Gestione Dati Personali ';

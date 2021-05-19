@@ -1,0 +1,115 @@
+@media (min-width:900px) {
+	#cookieChoiceInfo {
+		font-size:14px !important;
+		width: 100% !important;
+	}
+	#cookieChoiceInfo #InformativaSpan {
+		
+	}
+	#cookieChoiceInfo #InformativaAccetto {
+		font-size:14px !important;
+	}
+}
+@media (min-width:700px) and (max-width:899px){
+	#cookieChoiceInfo {
+		font-size:14px !important;
+
+	}
+	#cookieChoiceInfo #InformativaSpan {
+		
+	}
+	#cookieChoiceInfo #InformativaAccetto {
+		font-size:14px !important;
+		
+	}
+}
+@media (min-width:580px) and (max-width:699px){
+	#cookieChoiceInfo {
+		font-size:12px !important;
+		
+	}
+	#cookieChoiceInfo #InformativaSpan {
+		w
+	}
+	#cookieChoiceInfo #InformativaAccetto {
+		font-size:12px !important;
+		
+	}
+}
+@media (max-width:579px){
+	#cookieChoiceInfo {
+		font-size:12px !important;
+		
+	}
+	#cookieChoiceInfo #InformativaSpan {
+		
+	}
+	#cookieChoiceInfo #InformativaAccetto {
+		font-size:12px !important;
+	
+	}
+}
+
+#cookieChoiceInfo {
+	font-size:12px;
+	position:fixed;
+	margin:0; 
+	left:0; 
+	padding:10px;
+	z-index:9999;
+	color:#DDD;
+	text-align:right;
+}
+
+#cookieChoiceInfo #InformativaSpan {
+	
+	float:left;
+	display:block;
+	text-align:left;
+}
+
+#cookieChoiceInfo #InformativaAccetto {
+	-webkit-border-radius: 6;
+	-moz-border-radius: 6;
+	border-radius: 6px;
+	font-family: Arial;
+	font-size: 12px;
+	padding: 3px 6px 3px 6px;
+	text-decoration: none;
+	display:inline;
+}
+
+#cookieChoiceInfo #InformativaAccetto:hover {
+	text-decoration: none;
+}
+
+.TabellaCookiePolicy .NomeCookie {
+	font-weight: bold;
+}
+
+.TabellaCookiePolicy th, .TabellaCookiePolicy td, .TabellaCookiePolicy {
+	border: 1px solid #bdbdbd;
+	padding: 6px;
+}
+
+.TabellaCookiePolicy th {
+	font-weight:bold;
+	font-size:16px;
+}
+
+.TabellaCookiePolicy .ThNomeCookie {
+	min-width:120px;
+}
+
+.TabellaCookiePolicy .LinkCookie {
+	text-align:center;
+}
+
+#cookieChoiceInfo #InformativaClick {
+	text-decoration: underline;
+	background:none;
+}
+
+
+	
+

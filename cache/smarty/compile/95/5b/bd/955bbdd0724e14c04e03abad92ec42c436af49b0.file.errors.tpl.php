@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2021-05-18 09:50:58
+<?php /* Smarty version Smarty-3.1.19, created on 2021-05-18 15:57:09
          compiled from "/Users/ltexp1998/Desktop/github/pleine_lune/themes/default-bootstrap/errors.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:159015772760a371e256c0a4-45238316%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:75897575860a3c7b5e89e34-44836678%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '159015772760a371e256c0a4-45238316',
+  'nocache_hash' => '75897575860a3c7b5e89e34-44836678',
   'function' => 
   array (
   ),
@@ -23,9 +23,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_60a371e25a69a0_44812742',
+  'unifunc' => 'content_60a3c7b5ebd515_11655562',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_60a371e25a69a0_44812742')) {function content_60a371e25a69a0_44812742($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_60a3c7b5ebd515_11655562')) {function content_60a3c7b5ebd515_11655562($_smarty_tpl) {?>
 
 <?php if (isset($_smarty_tpl->tpl_vars['errors']->value)&&$_smarty_tpl->tpl_vars['errors']->value) {?>
 	<div class="alert alert-danger">

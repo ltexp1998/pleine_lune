@@ -1,0 +1,10 @@
+a:1:{i:0;a:19:{s:11:"id_category";s:2:"16";s:9:"id_parent";s:1:"2";s:15:"id_shop_default";s:1:"1";s:11:"level_depth";s:1:"2";s:5:"nleft";s:2:"11";s:6:"nright";s:2:"12";s:6:"active";s:1:"0";s:8:"date_add";s:19:"2021-04-28 16:02:21";s:8:"date_upd";s:19:"2021-05-10 15:19:25";s:8:"position";s:1:"5";s:16:"is_root_category";s:1:"0";s:7:"id_shop";s:1:"1";s:7:"id_lang";s:1:"2";s:4:"name";s:16:"Les éphémères";s:11:"description";s:527:"<div class="nav1__content">
+<h1 class="nav1">Brassins uniques éphémères</h1>
+</div>
+<div class="contenu">
+<div class="conthead pdlrmob">
+<div class="conthead__txt">
+<p>Vous trouverez ici nos brassins uniques. Il s'agit, comme les collaborations, de nouvelles recettes que nous proposons de manière éphémère, sans être vouée à entrer dans notre gamme. L'occasion pour nous d'expérimenter, de tester de nouveaux styles, ingrédients ou méthodes de production. Bref, ici c'est les nouveautés!</p>
+</div>
+</div>
+</div>";s:12:"link_rewrite";s:13:"les-ephemeres";s:10:"meta_title";s:20:"Bières éphémères";s:13:"meta_keywords";s:40:"bière,bières,éphémères,éphémères";s:16:"meta_description";s:20:"Bières éphémères";}}

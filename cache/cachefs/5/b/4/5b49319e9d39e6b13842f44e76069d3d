@@ -1,4 +1,4 @@
-a:58:{s:10:"id_product";s:2:"14";s:11:"id_supplier";s:1:"0";s:15:"id_manufacturer";s:1:"0";s:19:"id_category_default";s:2:"13";s:15:"id_shop_default";s:1:"1";s:18:"id_tax_rules_group";s:2:"53";s:7:"on_sale";s:1:"0";s:11:"online_only";s:1:"0";s:5:"ean13";s:0:"";s:3:"upc";s:0:"";s:6:"ecotax";s:8:"0.000000";s:8:"quantity";s:1:"0";s:16:"minimal_quantity";s:1:"1";s:5:"price";s:8:"2.083333";s:15:"wholesale_price";s:8:"0.000000";s:5:"unity";s:1:"1";s:16:"unit_price_ratio";s:8:"0.000000";s:24:"additional_shipping_cost";s:4:"0.00";s:9:"reference";s:8:"Aubeloun";s:18:"supplier_reference";s:0:"";s:8:"location";s:0:"";s:5:"width";s:8:"0.000000";s:6:"height";s:8:"0.000000";s:5:"depth";s:8:"0.000000";s:6:"weight";s:8:"0.000000";s:12:"out_of_stock";s:1:"2";s:17:"quantity_discount";s:1:"0";s:12:"customizable";s:1:"0";s:16:"uploadable_files";s:1:"0";s:11:"text_fields";s:1:"0";s:6:"active";s:1:"1";s:13:"redirect_type";s:3:"404";s:21:"id_product_redirected";s:1:"0";s:19:"available_for_order";s:1:"1";s:14:"available_date";s:10:"0000-00-00";s:9:"condition";s:3:"new";s:10:"show_price";s:1:"1";s:7:"indexed";s:1:"1";s:10:"visibility";s:4:"both";s:13:"cache_is_pack";s:1:"0";s:21:"cache_has_attachments";s:1:"1";s:10:"is_virtual";s:1:"0";s:23:"cache_default_attribute";s:2:"97";s:8:"date_add";s:19:"2021-04-28 13:51:54";s:8:"date_upd";s:19:"2021-05-10 09:44:38";s:25:"advanced_stock_management";s:1:"0";s:15:"pack_stock_type";s:1:"3";s:7:"id_shop";s:1:"1";s:7:"id_lang";s:1:"2";s:11:"description";s:2003:"<h1>Aubeloun</h1>
+a:58:{s:10:"id_product";s:2:"14";s:11:"id_supplier";s:1:"0";s:15:"id_manufacturer";s:1:"0";s:19:"id_category_default";s:2:"13";s:15:"id_shop_default";s:1:"1";s:18:"id_tax_rules_group";s:2:"53";s:7:"on_sale";s:1:"0";s:11:"online_only";s:1:"0";s:5:"ean13";s:0:"";s:3:"upc";s:0:"";s:6:"ecotax";s:8:"0.000000";s:8:"quantity";s:1:"0";s:16:"minimal_quantity";s:1:"1";s:5:"price";s:8:"2.083333";s:15:"wholesale_price";s:8:"0.000000";s:5:"unity";s:1:"1";s:16:"unit_price_ratio";s:8:"0.000000";s:24:"additional_shipping_cost";s:4:"0.00";s:9:"reference";s:8:"Aubeloun";s:18:"supplier_reference";s:0:"";s:8:"location";s:0:"";s:5:"width";s:8:"0.000000";s:6:"height";s:8:"0.000000";s:5:"depth";s:8:"0.000000";s:6:"weight";s:8:"0.000000";s:12:"out_of_stock";s:1:"2";s:17:"quantity_discount";s:1:"0";s:12:"customizable";s:1:"0";s:16:"uploadable_files";s:1:"0";s:11:"text_fields";s:1:"0";s:6:"active";s:1:"1";s:13:"redirect_type";s:3:"404";s:21:"id_product_redirected";s:1:"0";s:19:"available_for_order";s:1:"1";s:14:"available_date";s:10:"0000-00-00";s:9:"condition";s:10:"Permanente";s:10:"show_price";s:1:"1";s:7:"indexed";s:1:"1";s:10:"visibility";s:4:"both";s:13:"cache_is_pack";s:1:"0";s:21:"cache_has_attachments";s:1:"1";s:10:"is_virtual";s:1:"0";s:23:"cache_default_attribute";s:2:"97";s:8:"date_add";s:19:"2021-04-28 13:51:54";s:8:"date_upd";s:19:"2021-05-18 10:23:04";s:25:"advanced_stock_management";s:1:"0";s:15:"pack_stock_type";s:1:"3";s:7:"id_shop";s:1:"1";s:7:"id_lang";s:1:"2";s:11:"description";s:1995:"<h1>Aubeloun</h1>
 <h2><span>Style : India Pale Ale / IPA</span></h2>
 <div class="contenu">
 <div class="fichbier">
@@ -8,19 +8,11 @@ a:58:{s:10:"id_product";s:2:"14";s:11:"id_supplier";s:1:"0";s:15:"id_manufacture
 <p><strong>Amertume</strong> : 4 sur 6.</p>
 <p><strong>Alcool</strong> : 6% Vol.</p>
 <p><span><strong>Ingrédients</strong> :</span></p>
-<ul>
-<li>Eau de <a href="https://www.siepv.fr/?q=analyses-deau" target="_blank">Chabeuil</a><span>, </span></li>
-</ul>
-<ul>
-<li>Malts : Pale*, Munich*, Vienne*, CaraRed*, </li>
-</ul>
-<ul>
-<li>Houblons : Centennial*, Simcoe*, Citra*, Galaxy (Lots terminant par 20-11 à 20-14 : Warrior remplace Galaxy) </li>
-</ul>
-<ul>
-<li>Levure.</li>
-</ul>
-<em>* Ingrédients issus de l'agriculture biologique.</em>
+<ul><li>Eau de <a href="https://www.siepv.fr/?q=analyses-deau" target="_blank">Chabeuil</a><span>, </span></li>
+</ul><ul><li>Malts : Pale*, Munich*, Vienne*, CaraRed*, </li>
+</ul><ul><li>Houblons : Centennial*, Simcoe*, Citra*, Galaxy (Lots terminant par 20-11 à 20-14 : Warrior remplace Galaxy) </li>
+</ul><ul><li>Levure.</li>
+</ul><em>* Ingrédients issus de l'agriculture biologique.</em>
 <p><strong>Conseil </strong><span><strong>de dégustation</strong> </span>: <span>À déguster fraîche dans un verre à fond plat nervuré. </span><br /><span><strong>Accords</strong> : <a href="http://www.amandinecooking.com/2016/05/lentilles-vertes-au-chorizo-et-tomates.html" target="_blank">Lentilles vertes au chorizo, poivron et tomates</a><span>, Fromages à pâtes persillées : rochefort, stilton,... </span><a href="http://www.thehappycookingfriends.com/truffes-croustillantes-chocolat-au-lait-passion-et-pralin/" target="_blank">Truffes Croustillante chocolat au lait, passion et pralin</a><span>,...</span></span></p>
 <p><span>Bière blonde atypique à l'amertume soutenue qui se structure autour des houblons aromatiques. Son nez est fruité et exotique sur des notes d’agrumes. L'</span><span>Aubeloun</span><span> </span><span> (houblon en patois dauhpinois) est une libre interprétation des IPA anglo-saxonnes, dont la particularité est l'utilisation massive de houblons. </span></p>
 <h3><em><strong>Disponible toute l'année</strong> en 33cl, 75cl, fûts de 20L et 30L. </em></h3>
